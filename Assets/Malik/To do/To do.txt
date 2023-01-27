@@ -1,0 +1,8 @@
+To do:
+
+Add spatial audio to the radio
+Get the hands to interact with the buttons
+
+Notes:
+
+I added the audio scripts on the wrist of the hand avatar
